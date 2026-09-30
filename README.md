@@ -14,24 +14,24 @@ Python, SQL, PostgreSQL, Databricks, PySpark, Spark, Kafka, Airflow, Delta Lake,
 
 Lakehouse Medallion y flujo MLOps con datos sintéticos, PySpark, Auto Loader, Delta Lake, Unity Catalog y MLflow. Proyecto académico aplicado con desarrollo end-to-end compartido y producción simulada.
 
-https://github.com/AlonsoMarcosM/databricks-telco-churn-lakehouse
+https://github.com/alonsomarcosm99/databricks-telco-churn-lakehouse
 
 ### Smart Parking Albacete
 
 Plataforma IoT serverless en AWS con 40 sensores simulados, MQTT/TLS, Lambda, DynamoDB, API GeoJSON y dashboard Streamlit.
 
-https://github.com/AlonsoMarcosM/smart-parking-albacete
+https://github.com/alonsomarcosm99/smart-parking-albacete
 
 ### Spark, Kafka y Airflow Data Platform
 
 Plataforma batch y streaming con arquitectura Medallion, Spark, Kafka, Airflow, Delta Lake, SQL Server y MinIO.
 
-https://github.com/AlonsoMarcosM/spark-kafka-airflow-data-platform
+https://github.com/alonsomarcosm99/spark-kafka-airflow-data-platform
 
 ## Experiencia y contacto
 
-- Portfolio: https://alonsomarcosm.github.io/es/
+- Portfolio: https://alonsomarcosm99.github.io/es/
 - LinkedIn: https://www.linkedin.com/in/alonsomarcosm99/
-- GitHub: https://github.com/AlonsoMarcosM
+- GitHub: https://github.com/alonsomarcosm99
 
 Estoy abierto a oportunidades de Data Engineering y Data Platform donde importen la calidad, la operación, la automatización y la trazabilidad.
